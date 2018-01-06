@@ -1,0 +1,149 @@
+﻿body{
+    background-color: #ff0000;
+    width: auto;
+    height: 1400px;
+}
+
+header{
+	height: 105px;
+}
+
+.thumbnail{
+	margin-top: 10px;
+	height: 100px;
+}
+
+h1{
+	display: inline-block;
+	font-weight: bold;
+	font-size: 60px;
+	font-family: Castellar;
+	margin-left: 355px;
+	margin-right: 355px;
+}
+
+#mainbox{
+	background-color: #ffffff;
+	width: auto;
+	height: 1400px;
+	margin: 50px;
+}
+
+#left{
+    width: 25%;
+    float: left;
+    height: 1400px;
+}
+
+#center{
+    width: 50%;
+    float: left;
+    height: 1400px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#right{
+   width: 25%;
+   float: left;
+   height: 1400px;    
+}
+
+#thinking{
+	border-color: #ff0000;
+	border-width: 10px;
+	border-style: ridge;
+	padding: 15px;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-bottom: 15px;
+	margin-left: 100px;
+}
+
+#aka{
+	font-style: italic;
+}
+
+.small{
+	height: 200px;
+	display: block;	
+}
+
+#softball{
+	margin: 70px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;
+}
+
+#chef{
+	margin: 95px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;
+	transform: rotate(25deg);
+}
+
+#heart{
+	margin: 60px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;
+}
+
+#obit{
+	margin: 120px;
+	transform: rotate(340deg);
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;
+}
+
+#snow{
+	margin-top: 70px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;
+}
+
+#dakota{
+	transform: rotate(340deg);
+	margin: 95px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;	
+}
+
+#brothers{
+	margin: 35px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;
+}
+
+
+#smile{
+	transform: rotate(25deg);
+	margin: 95px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;
+}
+
+#cups{
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	border-width: 5px;
+	border-style: ridge;
+	border-color: #ff0000;	
+}
+
+footer{
+	text-align: center;
+	font-size: 18px;
+}
